@@ -1,7 +1,7 @@
 import lyricsgenius
 import string
 
-genius = lyricsgenius.Genius("BLoQ-U9eOH6yu5A9QxAuKeErgNx-QxaRufCmifMUXHrwNFGrLFIHQH1rPQfkN-aN")
+genius = lyricsgenius.Genius("YOUR TOKEN HERE")
 genius.skip_non_songs = True
 
 
