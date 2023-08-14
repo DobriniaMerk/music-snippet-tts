@@ -16,8 +16,10 @@ To install, you should get yourself an Genius API key, clone this repository, in
 ```
 # Clone this repo
 git clone https://github.com/DobriniaMerk/music-snippet-tts.git
+
 # Install dependecies
 pip install -r requirements.txt
+
 # Install SoX
 sudo apt install sox # on linux
 ```
