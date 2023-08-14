@@ -1,0 +1,3 @@
+pywhispercpp
+youtube-dl
+lyricsgenius
