@@ -6,7 +6,7 @@ Why i am publishing sources? I have no idea, maybe someone will find this intres
 
 Does this thing has any practical use? Most probably not.
 
-Thats it.
+That's it.
 
 ## Installing and usage
 <sup>I anyone would want to try this</sup>
@@ -29,7 +29,7 @@ Also ffmpeg needed for pywhispercpp to work. Installation process for it left as
 
 After all this, you should get yoursef a Genius API token and put it in the `genius.py`.
 
-Thats it.
+That's it.
 
 ## Description
 
@@ -38,7 +38,7 @@ Instead of generating audio with neural networks or synthesyzing it with some co
 this program makes speech by combining together pieces of random songs which contain needed words.
 Resulting audio is not very understandable, though.
 
-Thats it.
+That's it.
 
 ## Realization
 
@@ -56,6 +56,6 @@ To make things faster (but still not fast enough on my machine) i used [whisper.
 
 And finaly the audio is cut and combined by [SoX](https://sox.sourceforge.net/sox.html), audio processing command line multitool.
 
-Thats it.
+That's it.
 
 <sub><sup>I spent too much time on this thing.</sup></sub>
