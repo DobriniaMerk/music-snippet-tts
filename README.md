@@ -25,6 +25,8 @@ sudo apt install sox # on linux
 ```
 On Windows, to install SoX you sould download it from [Sourceforge](https://sourceforge.net/projects/sox/files/sox/) and add to PATH.
 
+Also ffmpeg needed for pywhispercpp to work. Installation process for it left as an excercise for the reader. <sub><sup>i'm too tired to search for it</sup></sub>
+
 After all this, you should get yoursef a Genius API token and put it in the `genius.py`.
 
 Thats it.
